@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\RestApi5CMaturaVorbereitung.props" />
+</Project>
