@@ -1,0 +1,96 @@
+H:\SWP\RestAPI\RestAPI\bin\Debug\net6.0\appsettings.Development.json
+H:\SWP\RestAPI\RestAPI\bin\Debug\net6.0\appsettings.json
+H:\SWP\RestAPI\RestAPI\bin\Debug\net6.0\RestAPI.exe
+H:\SWP\RestAPI\RestAPI\bin\Debug\net6.0\RestAPI.deps.json
+H:\SWP\RestAPI\RestAPI\bin\Debug\net6.0\RestAPI.runtimeconfig.json
+H:\SWP\RestAPI\RestAPI\bin\Debug\net6.0\RestAPI.dll
+H:\SWP\RestAPI\RestAPI\bin\Debug\net6.0\RestAPI.pdb
+H:\SWP\RestAPI\RestAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+H:\SWP\RestAPI\RestAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+H:\SWP\RestAPI\RestAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+H:\SWP\RestAPI\RestAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+H:\SWP\RestAPI\RestAPI\obj\Debug\net6.0\RestAPI.csproj.AssemblyReference.cache
+H:\SWP\RestAPI\RestAPI\obj\Debug\net6.0\RestAPI.GeneratedMSBuildEditorConfig.editorconfig
+H:\SWP\RestAPI\RestAPI\obj\Debug\net6.0\RestAPI.AssemblyInfoInputs.cache
+H:\SWP\RestAPI\RestAPI\obj\Debug\net6.0\RestAPI.AssemblyInfo.cs
+H:\SWP\RestAPI\RestAPI\obj\Debug\net6.0\RestAPI.csproj.CoreCompileInputs.cache
+H:\SWP\RestAPI\RestAPI\obj\Debug\net6.0\RestAPI.MvcApplicationPartsAssemblyInfo.cs
+H:\SWP\RestAPI\RestAPI\obj\Debug\net6.0\RestAPI.MvcApplicationPartsAssemblyInfo.cache
+H:\SWP\RestAPI\RestAPI\obj\Debug\net6.0\staticwebassets\msbuild.RestAPI.Microsoft.AspNetCore.StaticWebAssets.props
+H:\SWP\RestAPI\RestAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.RestAPI.props
+H:\SWP\RestAPI\RestAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.RestAPI.props
+H:\SWP\RestAPI\RestAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.RestAPI.props
+H:\SWP\RestAPI\RestAPI\obj\Debug\net6.0\staticwebassets.pack.json
+H:\SWP\RestAPI\RestAPI\obj\Debug\net6.0\staticwebassets.build.json
+H:\SWP\RestAPI\RestAPI\obj\Debug\net6.0\staticwebassets.development.json
+H:\SWP\RestAPI\RestAPI\obj\Debug\net6.0\scopedcss\bundle\RestAPI.styles.css
+H:\SWP\RestAPI\RestAPI\obj\Debug\net6.0\RestAPI.csproj.CopyComplete
+H:\SWP\RestAPI\RestAPI\obj\Debug\net6.0\RestAPI.dll
+H:\SWP\RestAPI\RestAPI\obj\Debug\net6.0\refint\RestAPI.dll
+H:\SWP\RestAPI\RestAPI\obj\Debug\net6.0\RestAPI.pdb
+H:\SWP\RestAPI\RestAPI\obj\Debug\net6.0\RestAPI.genruntimeconfig.cache
+H:\SWP\RestAPI\RestAPI\obj\Debug\net6.0\ref\RestAPI.dll
+H:\SWP\RestAPI\RestAPI\RestAPI\bin\Debug\net6.0\appsettings.Development.json
+H:\SWP\RestAPI\RestAPI\RestAPI\bin\Debug\net6.0\appsettings.json
+H:\SWP\RestAPI\RestAPI\RestAPI\bin\Debug\net6.0\RestAPI.exe
+H:\SWP\RestAPI\RestAPI\RestAPI\bin\Debug\net6.0\RestAPI.deps.json
+H:\SWP\RestAPI\RestAPI\RestAPI\bin\Debug\net6.0\RestAPI.runtimeconfig.json
+H:\SWP\RestAPI\RestAPI\RestAPI\bin\Debug\net6.0\RestAPI.dll
+H:\SWP\RestAPI\RestAPI\RestAPI\bin\Debug\net6.0\RestAPI.pdb
+H:\SWP\RestAPI\RestAPI\RestAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+H:\SWP\RestAPI\RestAPI\RestAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+H:\SWP\RestAPI\RestAPI\RestAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+H:\SWP\RestAPI\RestAPI\RestAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+H:\SWP\RestAPI\RestAPI\RestAPI\obj\Debug\net6.0\RestAPI.csproj.AssemblyReference.cache
+H:\SWP\RestAPI\RestAPI\RestAPI\obj\Debug\net6.0\RestAPI.GeneratedMSBuildEditorConfig.editorconfig
+H:\SWP\RestAPI\RestAPI\RestAPI\obj\Debug\net6.0\RestAPI.AssemblyInfoInputs.cache
+H:\SWP\RestAPI\RestAPI\RestAPI\obj\Debug\net6.0\RestAPI.AssemblyInfo.cs
+H:\SWP\RestAPI\RestAPI\RestAPI\obj\Debug\net6.0\RestAPI.csproj.CoreCompileInputs.cache
+H:\SWP\RestAPI\RestAPI\RestAPI\obj\Debug\net6.0\RestAPI.MvcApplicationPartsAssemblyInfo.cs
+H:\SWP\RestAPI\RestAPI\RestAPI\obj\Debug\net6.0\RestAPI.MvcApplicationPartsAssemblyInfo.cache
+H:\SWP\RestAPI\RestAPI\RestAPI\obj\Debug\net6.0\staticwebassets\msbuild.RestAPI.Microsoft.AspNetCore.StaticWebAssets.props
+H:\SWP\RestAPI\RestAPI\RestAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.RestAPI.props
+H:\SWP\RestAPI\RestAPI\RestAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.RestAPI.props
+H:\SWP\RestAPI\RestAPI\RestAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.RestAPI.props
+H:\SWP\RestAPI\RestAPI\RestAPI\obj\Debug\net6.0\staticwebassets.pack.json
+H:\SWP\RestAPI\RestAPI\RestAPI\obj\Debug\net6.0\staticwebassets.build.json
+H:\SWP\RestAPI\RestAPI\RestAPI\obj\Debug\net6.0\staticwebassets.development.json
+H:\SWP\RestAPI\RestAPI\RestAPI\obj\Debug\net6.0\scopedcss\bundle\RestAPI.styles.css
+H:\SWP\RestAPI\RestAPI\RestAPI\obj\Debug\net6.0\RestAPI.csproj.CopyComplete
+H:\SWP\RestAPI\RestAPI\RestAPI\obj\Debug\net6.0\RestAPI.dll
+H:\SWP\RestAPI\RestAPI\RestAPI\obj\Debug\net6.0\refint\RestAPI.dll
+H:\SWP\RestAPI\RestAPI\RestAPI\obj\Debug\net6.0\RestAPI.pdb
+H:\SWP\RestAPI\RestAPI\RestAPI\obj\Debug\net6.0\RestAPI.genruntimeconfig.cache
+H:\SWP\RestAPI\RestAPI\RestAPI\obj\Debug\net6.0\ref\RestAPI.dll
+C:\Users\eliap\Downloads\RestAPI 2\RestAPI\RestAPI\RestAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\eliap\Downloads\RestAPI 2\RestAPI\RestAPI\RestAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\eliap\Downloads\RestAPI 2\RestAPI\RestAPI\RestAPI\bin\Debug\net6.0\RestAPI.exe
+C:\Users\eliap\Downloads\RestAPI 2\RestAPI\RestAPI\RestAPI\bin\Debug\net6.0\RestAPI.deps.json
+C:\Users\eliap\Downloads\RestAPI 2\RestAPI\RestAPI\RestAPI\bin\Debug\net6.0\RestAPI.runtimeconfig.json
+C:\Users\eliap\Downloads\RestAPI 2\RestAPI\RestAPI\RestAPI\bin\Debug\net6.0\RestAPI.dll
+C:\Users\eliap\Downloads\RestAPI 2\RestAPI\RestAPI\RestAPI\bin\Debug\net6.0\RestAPI.pdb
+C:\Users\eliap\Downloads\RestAPI 2\RestAPI\RestAPI\RestAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\eliap\Downloads\RestAPI 2\RestAPI\RestAPI\RestAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\eliap\Downloads\RestAPI 2\RestAPI\RestAPI\RestAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\eliap\Downloads\RestAPI 2\RestAPI\RestAPI\RestAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\eliap\Downloads\RestAPI 2\RestAPI\RestAPI\RestAPI\obj\Debug\net6.0\RestAPI.csproj.AssemblyReference.cache
+C:\Users\eliap\Downloads\RestAPI 2\RestAPI\RestAPI\RestAPI\obj\Debug\net6.0\RestAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eliap\Downloads\RestAPI 2\RestAPI\RestAPI\RestAPI\obj\Debug\net6.0\RestAPI.AssemblyInfoInputs.cache
+C:\Users\eliap\Downloads\RestAPI 2\RestAPI\RestAPI\RestAPI\obj\Debug\net6.0\RestAPI.AssemblyInfo.cs
+C:\Users\eliap\Downloads\RestAPI 2\RestAPI\RestAPI\RestAPI\obj\Debug\net6.0\RestAPI.csproj.CoreCompileInputs.cache
+C:\Users\eliap\Downloads\RestAPI 2\RestAPI\RestAPI\RestAPI\obj\Debug\net6.0\RestAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\eliap\Downloads\RestAPI 2\RestAPI\RestAPI\RestAPI\obj\Debug\net6.0\RestAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\eliap\Downloads\RestAPI 2\RestAPI\RestAPI\RestAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\eliap\Downloads\RestAPI 2\RestAPI\RestAPI\RestAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\eliap\Downloads\RestAPI 2\RestAPI\RestAPI\RestAPI\obj\Debug\net6.0\staticwebassets\msbuild.RestAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\eliap\Downloads\RestAPI 2\RestAPI\RestAPI\RestAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.RestAPI.props
+C:\Users\eliap\Downloads\RestAPI 2\RestAPI\RestAPI\RestAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.RestAPI.props
+C:\Users\eliap\Downloads\RestAPI 2\RestAPI\RestAPI\RestAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.RestAPI.props
+C:\Users\eliap\Downloads\RestAPI 2\RestAPI\RestAPI\RestAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\eliap\Downloads\RestAPI 2\RestAPI\RestAPI\RestAPI\obj\Debug\net6.0\scopedcss\bundle\RestAPI.styles.css
+C:\Users\eliap\Downloads\RestAPI 2\RestAPI\RestAPI\RestAPI\obj\Debug\net6.0\RestAPI.csproj.CopyComplete
+C:\Users\eliap\Downloads\RestAPI 2\RestAPI\RestAPI\RestAPI\obj\Debug\net6.0\RestAPI.dll
+C:\Users\eliap\Downloads\RestAPI 2\RestAPI\RestAPI\RestAPI\obj\Debug\net6.0\refint\RestAPI.dll
+C:\Users\eliap\Downloads\RestAPI 2\RestAPI\RestAPI\RestAPI\obj\Debug\net6.0\RestAPI.pdb
+C:\Users\eliap\Downloads\RestAPI 2\RestAPI\RestAPI\RestAPI\obj\Debug\net6.0\RestAPI.genruntimeconfig.cache
+C:\Users\eliap\Downloads\RestAPI 2\RestAPI\RestAPI\RestAPI\obj\Debug\net6.0\ref\RestAPI.dll
