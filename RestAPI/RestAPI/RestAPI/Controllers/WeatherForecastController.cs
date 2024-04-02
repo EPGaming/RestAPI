@@ -52,7 +52,7 @@ namespace RestAPI.Controllers
             StreamWriter sw = new StreamWriter(@"H:\\SWP\\RestAPI\\RestAPI\\RestAPI\\text.txt");
             foreach (var student in students)
             {
-                sw.WriteLine(student);
+                sw.WriteLine("ID: "+student.ID + "Name: "+student.Name);
             }
             sw.Close();
                         
